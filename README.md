@@ -1,2 +1,2 @@
-# ResNet for MNIST in PyTorch
-For detailed description/tutorial, go to: https://zablo.net/blog/post/using-resnet-for-mnist-in-pytorch-tutorial
+# ResNet for MNIST in PyTorch & PyTorch Lightning
+For detailed description/tutorial, go to: https://zablo.net/blog/post/pytorch-resnet-mnist-jupyter-notebook-2021/
